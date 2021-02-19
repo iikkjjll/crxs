@@ -1,0 +1,425 @@
+{
+	"extName": {
+		"message": "Extension Manager"
+	},
+	"extNameShort": {
+		"message": "Extension Manager"
+	},
+	"extDesr": {
+		"message": "Manage extensions, Quickly enable/disable, Support batching operation, Smart sorting. Fast, Simple and Secure."
+	},
+	"tipSetSuc": {
+		"message": "Settings saved !"
+	},
+	"tipResetRank": {
+		"message": "Order reseted !"
+	},
+	"sizeSmall": {
+		"message": "small"
+	},
+	"sizeNormal": {
+		"message": "normal"
+	},
+	"sizeBig": {
+		"message": "large"
+	},
+	"optionName": {
+		"message": "Options"
+	},
+	"showMod": {
+		"message": "Display Mode: "
+	},
+	"showListMod": {
+		"message": "List View"
+	},
+	"showGridMod": {
+		"message": "Grid View"
+	},
+	"showCols": {
+		"message": "Columns Number:  "
+	},
+	"iconSize": {
+		"message": "Icon Size:  "
+	},
+	"speedManageName": {
+		"message": "Quick Management:"
+	},
+	"speedManageDesc": {
+		"message": "Click once to disable all (except for themes & locked extensions)"
+	},
+	"speedManageLock": {
+		"message": "Click the Extension Icon to Lock/Unlock it:"
+	},
+	"rankName": {
+		"message": "Auto Order:"
+	},
+	"sortByName": {
+		"message": "Order by name"
+	},
+	"sortByRank": {
+		"message": "Order by enble times"
+	},
+	"rankBtn": {
+		"message": "Reset"
+	},
+	"otherName": {
+		"message": "Support:"
+	},
+	"otherDesc": {
+		"message": "you can also give a favorable comment or provide support suggestions at the <a>Chrome Web Store</a>."
+	},
+	"otherEdgeDesc": {
+		"message": "you can also give a favorable comment or provide support suggestions at the <a>Edge Web Store</a>."
+	},
+	"otherDonate": {
+		"message": "If you are satisfied with it, you can give me a donation and encourage me to continue to improve it for free :-)"
+	},
+	"showBadgeName": {
+		"message": "Show Badge"
+	},
+	"showBadgeDesc": {
+		"message": "Show the total number of the temporarily enabled extensions (enabled but unlocked extensions) in the toolbar ico, i.e. extension badge"
+	},
+	"showFastName": {
+		"message": "Show Shortcut"
+	},
+	"showFastDesc": {
+		"message": "Quick settings Icon in pop-up panel"
+	},
+	"showApp": {
+		"message": "Show App"
+	},
+	"menuType": {
+		"message": "Menu display mode:"
+	},
+	"hoverMenu": {
+		"message": "Hover"
+	},
+	"clickMenu": {
+		"message": "Click"
+	},
+	"showExtName": {
+		"message": "Show Extension Name:"
+	},
+	"showExtNameDesc": {
+		"message": "Show its name when hovering over extension icon"
+	},
+	"showGridExtName": {
+		"message": "Show extension names in grid mode"
+	},
+	"showGridExtDesc": {
+		"message": "In the left Name Settings, set the extension alias, otherwise display the default alias name"
+	},
+	"showGridExtTip": {
+		"message": "[Order by name] rule will be changed to [Order by alias]"
+	},
+	"optionNameModifyName": {
+		"message": "Enter extension alias, 8 characters are recommended"
+	},
+	"feedback_desc": {
+		"message": "Have any suggestions for improvements, questions, notice missing configuration options, or found a bug? To help improve experiences with this extension I would be very grateful for any and all feedback given or you might have."
+	},
+	"feedback_send": {
+		"message": "Send feedback"
+	},
+	"feedback_success": {
+		"message": "Thank you for the feedback"
+	},
+	"feedback_fail": {
+		"message": "Your message could not be sent. Please try again."
+	},
+	"feedback_screenshot": {
+		"message": "Attach screenshots"
+	},
+	"feedback_error_amount": {
+		"message": "Number of screenshots uploaded exceeds limit"
+	},
+	"feedback_error_filesize": {
+		"message": "File size is too large (> 1 MB)"
+	},
+	"feedback_process": {
+		"message": "Sending, please wait"
+	},
+	"feedback_headline": {
+		"message": "This may be of interest to you"
+	},
+	"feedback_suggestion1": {
+		"message": "How do I quickly enable and disable extensions?"
+	},
+	"feedback_answer1": {
+		"message": "Click the extension icon to enable and disable the extension."
+	},
+	"feedback_suggestion2": {
+		"message": "What does locking(unlocking) mean?"
+	},
+	"feedback_answer2": {
+		"message": "We encourage users to group extensions, and 'locking' means that the extension is tied to the group. When you need to enable some extensions temporarily, you can click the extension icon to enable(disable) the extension. After you are finished, click the reset button to restore the extension group status."
+	},
+	"feedback_suggestion3": {
+		"message": "What does reset mean?"
+	},
+	"feedback_answer3": {
+		"message": "Quickly close temporary use extensions (unlocked)"
+	},
+	"tipsTitle": {
+		"message": "No installed extensions :-)"
+	},
+	"tipsCon": {
+		"message": "Explore more"
+	},
+	"tipsUrl": {
+		"message": "Chrome Web Store"
+	},
+	"tipsEdgeUrl": {
+		"message": "Edge Web Store"
+	},
+	"rightLock_unlock": {
+		"message": "Unlock"
+	},
+	"rightLock_lock": {
+		"message": "Lock"
+	},
+	"rightOption": {
+		"message": "Options"
+	},
+	"rightAppLaunch": {
+		"message": "Launch"
+	},
+	"rightUninstall": {
+		"message": "Uninstall"
+	},
+	"rightHomepage": {
+		"message": "Homepage"
+	},
+	"rightMoreName": {
+		"message": "Right-click Menu:"
+	},
+	"rightMoreDesc": {
+		"message": "To get more functions by right-clicking the extension icon"
+	},
+	"emptyShowListCon": {
+		"message": "No enabled extensions in this group!"
+	},
+	"closeAllBtn": {
+		"message": "Reset"
+	},
+	"changeViewBtn": {
+		"message": "Switch"
+	},
+	"searcherPlaceholder": {
+		"message": "Search extension"
+	},
+	"searcherEmpty": {
+		"message": "No results"
+	},
+	"defaultGroupName": {
+		"message": "Default"
+	},
+	"newGroupName": {
+		"message": "New Group"
+	},
+	"optionGroupTitle": {
+		"message": "Group Management"
+	},
+	"optionGroupDesc": {
+		"message": "Using grouping, you can flexibly switch to different scenes such as home or company, to make management more convenient."
+	},
+	"optionGroupOperat": {
+		"message": "Under the selected group, click the extension icon to colorize to lock it into the group"
+	},
+	"optionGroupModifyName": {
+		"message": "Enter the group name please"
+	},
+	"optionGroupDelete": {
+		"message": "Are you sure to delete this group?"
+	},
+	"optionGroupDeleteAtLeaseOne": {
+		"message": "Keep at least one group!"
+	},
+	"fixGroupDesc": {
+		"message": "Extensions under a fixed grouping will remain on at all times."
+	},
+	"fixGroupOperat": {
+		"message": "Click the extension icon to colorize to lock it into the group"
+	},
+	"nameExtDesc": {
+		"message": "Give each extension a name you like"
+	},
+	"nameExtOperat": {
+		"message": "Click the modify icon to name the extension. Turn on this function in the general settings to take effect. Due to browser restrictions, aliases cannot be automatically synchronized for the time being."
+	},
+	"ruleExtDesc": {
+		"message": "Manage related extensions according to different websites"
+	},
+	"ruleExtWhat": {
+		"message": "What is a rule?"
+	},
+	"ruleExtList": {
+		"message": "Rules List"
+	},
+	"ruleExtThNumber": {
+		"message": "Number"
+	},
+	"ruleExtThExt": {
+		"message": "Extensions"
+	},
+	"ruleExtThUrl": {
+		"message": "Match"
+	},
+	"ruleExtThOperate": {
+		"message": "Operate"
+	},
+	"ruleExtAction": {
+		"message": "Action"
+	},
+	"enableOnly": {
+		"message": "Enable only"
+	},
+	"disableOnly": {
+		"message": "Disable only"
+	},
+	"enableWhen": {
+		"message": "Enable when"
+	},
+	"disableWhen": {
+		"message": "Disable when"
+	},
+	"ruleAdd": {
+		"message": "Add"
+	},
+	"ruleSave": {
+		"message": "Save"
+	},
+	"cancel": {
+		"message": "Cancel"
+	},
+	"ruleWildcard": {
+		"message": "Host wildcard"
+	},
+	"ruleWildMulti": {
+		"message": "Support multi domain matching, separated by |"
+	},
+	"ruleMaxNum": {
+		"message": "Exceeded maximum number of rules:"
+	},
+	"ruleMaxExtNum": {
+		"message": "Exceeded maximum number of extensions:"
+	},
+	"ruleUrlEmpty": {
+		"message": "Url cannot be empty"
+	},
+	"ruleExtEmpty": {
+		"message": "No extension selected"
+	},
+	"ruleTipTitle1": {
+		"message": "Scenario example"
+	},
+	"ruleTipContent1": {
+		"message": "<p style='color:#509EE3;font-weight: bold;'>Scenario:Enter the Amazon shopping website and open the Honey extension</p><p style='color:#509EE3;font-weight: bold;'>Rule:Match url[<span style='color:red;'>*amazon.com*</span>],Extension[Honey]</p>"
+	},
+	"ruleTipTitle2": {
+		"message": "Url setting method"
+	},
+	"ruleTipContent2": {
+		"message": "<p style='color:#509EE3;font-weight: bold;'>What are wildcards</p><span><span style='font-weight: bold;'>The asterisk</span> <span style='color:red;font-weight: bold;'>*</span> matches zero or more characters.</p><p><span style='font-weight: bold;'>The question mark</span> <span style='color:red;font-weight: bold;'>?</span> matches exactly one character.</p></br><p>Note that rules beginning with <span style='color:red;font-weight: bold;'>*.</span> are specially treated, will match both the subdomain and itself.</p><p>Example: <span style='color:red;font-weight: bold;'>*.example.com</span> will match www.example.com,<span style='font-weight: bold;'>AND example.com as well</span>.</p><p>To match subdomains <span style='font-weight: bold;'>only</span>, use <span style='font-weight: bold;'>two</span> asterisks like, <span style='color:red;font-weight: bold;'>**.example.com</span>。</p></br><span style='color:#509EE3;font-weight: bold;'>Example</span><p>Pattern:<span style='color:red;font-weight: bold;'>*.example.com</span> (or <span style='color:red;font-weight: bold;'>.example.com</span>)</p><p>Matching:a.example.com, a.b.example.com, example.com</p><p>Not matching:example.test, example.com.test, anotherexample.com</p></br><p style='color:#509EE3;font-weight: bold;'>Multi-domain matching</p><p>Match all pages of amazon and taobao:<span style='color:red;font-weight: bold;'>*amazon.com*|*taobao.com*</span></p></br><p style='color:#509EE3;font-weight: bold;'>Common configurations</p><p>Match all pages of amazon:<span style='color:red;font-weight: bold;'>*amazon.com*</span></p><p>Match taobao product page:<span style='color:red;font-weight: bold;'>*item.taobao.com*</span></p>"
+	},
+	"optionRuleDelete": {
+		"message": "Are you sure you want to delete this rule?"
+	},
+	"howToSet": {
+		"message": "How to set it up?"
+	},
+	"viewSetMenu": {
+		"message": "General"
+	},
+	"backup": {
+		"message": "Backup"
+	},
+	"export_options": {
+		"message": "Export"
+	},
+	"import_options": {
+		"message": "Import"
+	},
+	"backupDesc": {
+		"message": "Login to the same Google account on different devices can be automatically synchronized (except for extension alias)"
+	},
+	"failed_to_import": {
+		"message": "Import failed"
+	},
+	"success_to_import": {
+		"message": "Import successfully, please reload the page to read the latest configuration!"
+	},
+	"appearance": {
+		"message": "Appearance:"
+	},
+	"light": {
+		"message": "Light"
+	},
+	"dark": {
+		"message": "Dark"
+	},
+	"automatic": {
+		"message": "Automatic Follow Operation System"
+	},
+	"showModMenu": {
+		"message": "Mode"
+	},
+	"showColsMenu": {
+		"message": "Columns"
+	},
+	"iconSizeMenu": {
+		"message": "Icon Size"
+	},
+	"showThemeMenu": {
+		"message": "Appearance"
+	},
+	"showBadgeNameMenu": {
+		"message": "Badge"
+	},
+	"optionGroupTitleMenu": {
+		"message": "Group"
+	},
+	"commonGroup": {
+		"message": "General"
+	},
+	"fixGroup": {
+		"message": "Fixed"
+	},
+	"rankNameMenu": {
+		"message": "Order"
+	},
+	"ruleMenu": {
+		"message": "Rule"
+	},
+	"feedbackMenu": {
+		"message": "Feedback"
+	},
+	"supportMenu": {
+		"message": "Support"
+	},
+	"nameMenu": {
+		"message": "Name"
+	},
+	"resetTipTitle": {
+		"message": "If this is your first time using the reset function"
+	},
+	"resetTipContent": {
+		"message": "The meaning of reset is to remove the unlocked extension from the current group and restore the state of the current group. It is recommended that you <span style='color:#00aced'>group</span> or <span style='color:#00aced'>lock</span> extension first."
+	},
+	"resetTipDangerText": {
+		"message": "Keep resetting"
+	},
+	"resetTipCancelText": {
+		"message": "I want to group"
+	},
+	"updateTipTitle": {
+		"message": "Update Hints"
+	},
+	"updateTipContent": {
+		"message": "<p style='font-size:15px;'>You can choose how to display the extension options</p><p><span style='color:#00aced'>Setting-Menu display mode</span>,Select hover pop-up or click pop-up</p>"
+	},
+	"tipConfirmText": {
+		"message": "I know"
+	}
+}
